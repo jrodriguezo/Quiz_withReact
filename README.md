@@ -1,4 +1,4 @@
-# Quiz implementado con React y Redux ![image](https://user-images.githubusercontent.com/36509669/51703455-a7e9d680-2016-11e9-96f2-67e66201570c.png)
+# Quiz implementado con React y Redux 
 
 ## Aplicación
 Consiste en acertar el máximo número de preguntas posibles en menos de 2 minutos. Algunas llevan pistas y otras no.
